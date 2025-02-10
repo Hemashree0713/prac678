@@ -6,7 +6,7 @@ public class Prime
       int number=s.nextInt();
       int c=0;//assign c (count value) as 0
       if(number<1){
-System.out.print("Not a prime number");}
+System.out.print("this is a prime number");}
         for(int i=1;i<=number/2;i++){
         if(number%i==0){
         c++;
