@@ -1,2 +1,2 @@
 # prac678
-practicing to create branch and merge
+we are going to practice to create branch and merge
